@@ -134,8 +134,9 @@ import java.util.function.Function;
  * @see     Hashtable
  * @since   1.2
  */
-public class HashMap<K,V> extends AbstractMap<K,V>
-    implements Map<K,V>, Cloneable, Serializable {
+public class HashMap<K,V> extends AbstractMap<K,V> implements Map<K,V>, Cloneable, Serializable {
+
+	private static final long testLine = 36763181265L;
 
     private static final long serialVersionUID = 362498820763181265L;
 
