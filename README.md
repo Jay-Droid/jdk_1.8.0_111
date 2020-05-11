@@ -3,6 +3,10 @@
 
 ## Oracle Java 学习一手资料
 
+- [Java Tutorials 中文版](https://pingfangx.github.io/java-tutorials/)
+
+- [Java Tutorials 英文版](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
+
 - [Java 语言规范 By Java SE 8 Edition](https://docs.oracle.com/javase/specs/jls/se8/html/index.html)
 
 - [Java 虚拟机规范 By Java SE 8 Edition](https://docs.oracle.com/javase/specs/jvms/se8/html/index.html)
@@ -10,10 +14,6 @@
 - [Java API规范 By Java SE 8 Edition](https://docs.oracle.com/javase/8/docs/api/overview-summary.html)
 
 - [Java SE Development Kit 8 Downloads](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html#Demos)
-
-## 在线 Java 源码阅读网站
-- [Android 各版本完整源代码在线阅读一](https://cs.android.com/)
-- [Android 各版本完整源代码在线阅读二👍](https://www.androidos.net.cn/sourcecode)
 
 
 ## 本地源码阅读工具
